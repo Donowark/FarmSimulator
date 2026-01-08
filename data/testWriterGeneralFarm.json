@@ -1,0 +1,24 @@
+{
+    "area": 500,
+    "revenue": 0,
+    "plantableCrops": [],
+    "time": 0,
+    "crops": [
+        {
+            "timeRequired": 2,
+            "plantedArea": 100,
+            "revenue": 100,
+            "timeGrown": 0,
+            "seeds": 300,
+            "name": "apple"
+        },
+        {
+            "timeRequired": 1,
+            "plantedArea": 300,
+            "revenue": 50,
+            "timeGrown": 0,
+            "seeds": 500,
+            "name": "banana"
+        }
+    ]
+}

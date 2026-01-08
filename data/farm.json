@@ -1,0 +1,68 @@
+{
+    "area": 10,
+    "revenue": 0,
+    "plantableCrops": [
+        {
+            "timeRequired": 1,
+            "revenue": 75000,
+            "seeds": 0,
+            "name": "Wheat"
+        },
+        {
+            "timeRequired": 1,
+            "revenue": 150000,
+            "seeds": 0,
+            "name": "Corn"
+        },
+        {
+            "timeRequired": 1,
+            "revenue": 120000,
+            "seeds": 0,
+            "name": "Soybean"
+        },
+        {
+            "timeRequired": 2,
+            "revenue": 180000,
+            "seeds": 0,
+            "name": "Rice"
+        },
+        {
+            "timeRequired": 1,
+            "revenue": 500000,
+            "seeds": 0,
+            "name": "Potato"
+        },
+        {
+            "timeRequired": 1,
+            "revenue": 450000,
+            "seeds": 0,
+            "name": "Carrot"
+        },
+        {
+            "timeRequired": 1,
+            "revenue": 100000,
+            "seeds": 0,
+            "name": "Tomato"
+        },
+        {
+            "timeRequired": 1,
+            "revenue": 70000,
+            "seeds": 0,
+            "name": "Barley"
+        },
+        {
+            "timeRequired": 1,
+            "revenue": 120000,
+            "seeds": 0,
+            "name": "Canola"
+        },
+        {
+            "timeRequired": 1,
+            "revenue": 60000,
+            "seeds": 0,
+            "name": "Oat"
+        }
+    ],
+    "time": 0,
+    "crops": []
+}
